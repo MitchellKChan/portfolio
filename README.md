@@ -2,6 +2,8 @@
 
 Pleasure to meet you, and thanks for stopping by!
 
+Visit the [live site](https://mitchellkchan.github.io/portfolio/) to learn more about me!
+
 ## How to reach me
 
 I'd love to connect over email or Linkedin!
