@@ -12,5 +12,3 @@ I'd love to connect over email or Linkedin!
 ## Credits
 
 Shoutout to [HTML5 UP](http://html5up.net/) for the template!
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
